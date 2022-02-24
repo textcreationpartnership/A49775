@@ -1,0 +1,284 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Hypocrisie detected or, a brief ansvver to Thomas Crisp's book. By Thomas Laurence. Let this paper be kept by Friends, and spread only as they see a service for it occasioned by Thomas Crisp's book, or otherwise.</title>
+            <author>Lawrence, Thomas, 1645?-1714.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A49775</idno>
+            <idno type="STC">Wing L685A</idno>
+            <idno type="STC">ESTC R221705</idno>
+            <idno type="EEBO-CITATION">99832978</idno>
+            <idno type="PROQUEST">99832978</idno>
+            <idno type="VID">37453</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A49775)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 37453)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2188:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Hypocrisie detected or, a brief ansvver to Thomas Crisp's book. By Thomas Laurence. Let this paper be kept by Friends, and spread only as they see a service for it occasioned by Thomas Crisp's book, or otherwise.</title>
+                  <author>Lawrence, Thomas, 1645?-1714.</author>
+               </titleStmt>
+               <extent>15, [1]   </extent>
+               <publicationStmt>
+                  <publisher>printed by Andrew Sowle, and sold at his shop in Devonshire-Buildings, without Bishops-Gate,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1681.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In response to Crisp, Thomas. The second part of Babel's-builders unmask't.</note>
+                  <note>Reproduction of the original in the Friends' House Library, London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Crisp, Thomas, 17th cent. --  Babel's-builders unmask't. --  Part 2 --  Controversial literature --  Early works to 1800.</term>
+               <term>Quakers --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-10</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-10</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:37453:1"/>
+            <!-- PDF PAGE 78 -->
+            <pb facs="tcp:37453:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 78 -->
+            <p>Hypocriſie Detected, Or, a Brief ANSVVER TO <hi>Thomas Criſp</hi>'s Book.</p>
+            <p>By <hi>Thomas Laurence.</hi>
+            </p>
+            <p>
+               <hi>Let this Paper be kept by Friends, and ſpread only as they ſee a Service for it occaſioned by</hi> Thomas Criſp<hi>'s Book, or otherwiſe.</hi>
+            </p>
+            <p>London, <hi>Printed by</hi> Andrew Sowle, <hi>and ſold at his Shop in</hi> Devonſhire-Buildings, <hi>without</hi> Biſhops-Gate, 1681.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:37453:2"/>
+            <!-- PDF PAGE 79 -->
+            <pb n="3" facs="tcp:37453:2"/>
+            <!-- PDF PAGE 79 -->
+            <head>Hypocriſie Detected: <hi>Or, A brief Anſwer to</hi> Thomas Criſp<hi>'s Book.</hi>
+            </head>
+            <p n="1">I. HE ſaith, <hi>He hopes to be inſtrumen<g ref="char:EOLhyphen"/>tal to provoke to Love and Gentle<g ref="char:EOLhyphen"/>neſs.</hi>
+            </p>
+            <p>
+               <label>Anſwer,</label> In thy Title-page thou ſayſt, <hi>You are Gods</hi> Iſrael, <hi>and all thoſe that oppoſe you,</hi> Pha<g ref="char:EOLhyphen"/>raohs <hi>Task-maſters.</hi> And in thy Poſtſcript, <hi>That you are Followers of the Lamb, and all others Worſhippers of the Beaſt.</hi> Is this thy gentle be<g ref="char:EOLhyphen"/>ginning, to provoke to Love? judge thy own words; alack for thee, <hi>Thomas!</hi> I pitty thee; the Foundation of thy work is not (as thou pretendeſt) the Light of Chriſt within thee, but <hi>W. Rogers</hi>'s Book without thee: Why, <hi>Thomas,</hi> canſt thou not preach without a Text? What! Prieſt-like? nay, far below the Prieſts, they take a Text from the Book of Scripture, which is true, but thou from <hi>Wil<g ref="char:EOLhyphen"/>liam Rogers</hi>'s Book, which is falſe.</p>
+            <p n="2">II. Thou ſayſt, <hi>Thou wilt ſhew the neceſſity of bearing, and not judging one another about Opinions in Religion.</hi>
+            </p>
+            <p>
+               <pb n="4" facs="tcp:37453:3"/>
+               <!-- PDF PAGE 80 -->
+               <label>Anſw.</label> I deny thee, and all Evil Opinions, all that are in Truth are out of them; O Lord keep me ſenſible in thy Spirits Motions.</p>
+            <p n="3">III. Thou ſayſt, <hi>We may belong all to one Shepherd, though not all to one Fold.</hi>
+            </p>
+            <p>
+               <label>Anſw.</label> Chriſt ſaid, <hi>Other Sheep I have, which are not of this fold, them will I bring, and</hi> (then) <hi>there ſhall be one Sheep-fold, and one Shepherd;</hi> but it appears by thy Book, thou art not yet brought into Chriſts one Fold.</p>
+            <p>
+               <hi>John Story,</hi> and others, that are Enemies to the Churches Peace, ſay, <hi>The Apoſtacy came in FIRST by ſetting up of outward Orders, Synods and Counſels.</hi>
+            </p>
+            <p>
+               <label>Anſw.</label> The cauſe of the Apoſtacy was de<g ref="char:EOLhyphen"/>parting from the Spirit of God, which Spirit leads his People into good Order, and pre<g ref="char:EOLhyphen"/>ſerves his People in the ſame.</p>
+            <p>Now I am come to thy Book; firſt thou ſayſt is <hi>Iſaac Pennington</hi>'s <hi>Teſtimony, which thou toldſt his Son before</hi> Philip Ford, <hi>thou never readſt nor ſaw, but took thine out of</hi> William Rogers<hi>'s Book;</hi> and <hi>William Rogers</hi> took but part of <hi>Iſaac Pennington</hi>'s neither, and that he wreſted too, and never was <hi>Iſaac Pennington</hi>'s Sence nor Meaning. So, here is a Perverſion and Abuſe in the beginning of thy Book, but not <hi>Iſaac Pennington</hi>'s Teſtimony. <hi>T. C.</hi> how dareſt thou to rake up the Aſhes of that ho<g ref="char:EOLhyphen"/>nourable
+<pb n="5" facs="tcp:37453:3"/>
+               <!-- PDF PAGE 80 -->Perſon in Truth, and ſo mingle, wreſt and pervert his Sence and Meaning! bluſh for ſhame, and own thy Condemnation for it, before thy Heart is wholly hardned, and ſay, a Friend in love did give thee good Advice and Counſel.</p>
+            <p>
+               <hi>Second,</hi> Edward Burrough<hi>'s Viſion of a Flock of Sheep, if his, but it is not like him, nor like his other Writings; The Sheep fed together, the Shepherd gathering his Flock into one Fold, he ſtaid by the Fold himſelf, where all his Sheep were ſafely protected; but thou art for ſeveral or many Folds, out of God's Protection, and in the many Errors and Confuſions.</hi> I can ſay but little to this Author, becauſe I do not know certainly who he is; only this I know, that <hi>Iſaac Pen<g ref="char:EOLhyphen"/>nington, Edward Burroughs</hi> and <hi>William Penn</hi> have writ with great zeal againſt outward Orders ſet up by Papiſts, Sects and falſe Churches, all out of Truth, which thou and thy own ſide of unlearned and unſtable men do apply againſt faithful Friends in Truth.</p>
+            <p>
+               <hi>Third,</hi> Geo. Biſhop <hi>againſt a Paper of Orders,</hi> 1666. <hi>by eleaven of your</hi> (why your?) <hi>Mini<g ref="char:EOLhyphen"/>ſters. T. C.</hi> thou keepſt cloſe ſtill in thy ſepa<g ref="char:EOLhyphen"/>ration, <hi>Yours</hi> and <hi>Ours. T. Criſp, George Biſhop</hi> hath finiſhed his courſe in this World (and I hope is at reſt) but thou makes ill uſe of his words, to uphold a bad Cauſe.</p>
+            <p>
+               <hi>1st,</hi> Thou ſayſt, <hi>In the Apoſtles dayes were Paſtors, Teachers and Elders, but in this day,
+<pb n="6" facs="tcp:37453:4"/>
+                  <!-- PDF PAGE 81 -->the Spirit it ſelf is Paſtor, Teacher and Elder, without reſpect of Perſons.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> By what Scripture doſt thou prove the Spirit called an Elder? (that ſerve Tables.)</p>
+            <p n="2">2. <hi>Anſw.</hi> The Spirits moving, which is the efficient cauſe, doth not deſtroy his inſtru<g ref="char:EOLhyphen"/>ments, in which he moves, but ſpeaks in them, as in the Apoſtles dayes; <hi>and it is the honour of a King, the Multitude of Subjects,</hi> not alone; but it ſeems thou pretendeſt, thou haſt found another Adminiſtration than God gave by his Spirit to his Church at the Pentecoſt, <hi>Acts</hi> 2.</p>
+            <p>2dly, Thou ſayſt, <hi>Declaring and Speaking is not now in the Diſpoſition of Perſons.</hi>
+            </p>
+            <p>
+               <label>Anſw.</label> Why then doſt thou write, and many Perſons of your ſide declare?</p>
+            <p>3dly, Thou ſayſt, <hi>The Seed is come, the Heir is come, and not to be limitted under Tutors and Governors.</hi>
+            </p>
+            <p>
+               <label>Anſw.</label> Doſt thou account the Seed limitted when it goeth forth in a powerful Miniſtry, for the good of them that ſhall be Heirs of Sal<g ref="char:EOLhyphen"/>vation; but thy Writings are obſcure, and darken Counſel by words without Know<g ref="char:EOLhyphen"/>ledge.</p>
+            <p>4thly, Thou granteſt, <hi>The eleaven Sub<g ref="char:EOLhyphen"/>ſcribers were Miniſters, and the Preſence of the Lord hath been with them; but now they think to ſettle themſelves in the place of the Heir.</hi>
+            </p>
+            <p>
+               <pb n="7" facs="tcp:37453:4"/>
+               <!-- PDF PAGE 81 -->
+               <label>Anſw.</label> This is unjuſt and haſty judging, yet your ſide complain againſt judging one another.</p>
+            <p>5thly, Thou ſayeſt, <hi>Seek not to undervalue that to which you were ſent to miniſter.</hi>
+            </p>
+            <p>
+               <label>Anſw.</label> Here is another Problem; had the Seed of God ever any need of the Miniſtry of man, or was the Miniſtry ſent to that which the Seed had begotten in man? Here is thy great Miſtake.</p>
+            <p>
+               <hi>Thomas Criſp,</hi> theſe are Eorronious and Schiſmatical Opinions, broached by thee and ſuch as thou art, and they prove plainly that your ſide are joyned to the man of Sin, the ſon of Perdition, defined 2 <hi>Theſ.</hi> 2.3, 4. who ſeparates Chriſt's Church, Government and Diſcipline from his Doctrine.</p>
+            <p n="2">2. You villifie, and with reproachful terms call Chriſt's Church-Government, ſet up by his Spirit and Power in his inſtruments, <hi>Out<g ref="char:EOLhyphen"/>ward Orders, Forms, Preſcriptions, rotten Orders and Idols, not like Chriſtians.</hi>
+            </p>
+            <p n="3">3. You caſt away Chriſt's Church-Go<g ref="char:EOLhyphen"/>vernment and Diſcipline; for thou toldſt me in our ſhort Diſcourſe, <hi>There was no need of any Diſcipline.</hi>
+            </p>
+            <p n="4">4. You do not only caſt away Chriſts Church-Government, but his Doctrine and Miniſters alſo, ſaying, <hi>The Spirit it ſelf is Paſtor, Teacher and Elder, without Perſons.</hi> Yet you own Perſons that go about Preaching,
+<pb n="8" facs="tcp:37453:5"/>
+               <!-- PDF PAGE 82 -->which is Self-contradiction and Confuſion in Life and Doctrine.</p>
+            <p>
+               <hi>Fourth</hi> is <hi>Tho. Criſp</hi>'s piece of ſtoln words, which he doth not deny, but ſaith, <hi>He took them out of</hi> William Rogers<hi>'s Book.</hi>
+            </p>
+            <p>1st, Thou ſayſt, <hi>Some have promoted Go<g ref="char:EOLhyphen"/>vernment and Orders, to the compelling of others before convincement.</hi>
+            </p>
+            <p>
+               <label>Anſw.</label> But thou haſt not named any parti<g ref="char:EOLhyphen"/>cular Perſons, nor do I know any one amongſt us, who ſo do. But in pretence, to prevent ill orders, thou wouldſt have no outward orders.</p>
+            <p>2dly, Thou ſayſt, <hi>There is the Saints Seal and the Beaſts Mark deſcribed in Scripture.</hi>
+            </p>
+            <p>
+               <label>Anſw.</label> Thou accounteſt, all that oppoſe thee, and your ſide, have the Beaſts Mark; for thou chargeſt them, proudly ſaying, <hi>Away with calling your ſelves the People of God, and judge others.</hi>
+            </p>
+            <p>
+               <label>Anſw.</label> How often in thy Book haſt thou paſſed ſevere Judgment on others? and yet complainſt of judging: Thou condemneſt others, and doſt the ſame things, therefore thou art inexcuſable, <hi>Rom.</hi> 2.</p>
+            <p>3dly, <hi>Let none boaſt of their Number, and think themſelves the only People of God, becauſe they are many; but as the Apoſtle ſaid,</hi> Eſteem others better than your ſelves.</p>
+            <p>
+               <label>Anſw.</label> Art not thou a proud boaſter, that ſayſt, <hi>Thou haſt the Saints ſeal, and others the
+<pb n="9" facs="tcp:37453:5"/>
+                  <!-- PDF PAGE 82 -->Beaſts mark?</hi> Doſt not thou eſteem thy ſelf better than others, contrary to the Apoſtles counſel, the words of Scripture, which thou haſt quoted againſt thy ſelf.</p>
+            <p>4thly, Thou ſayeſt, <hi>The Kingdom of Heaven doth not conſiſt in ſpeaking one ſort of Speech or Language, or conforming to Orders or Preſcrip<g ref="char:EOLhyphen"/>tions from without.</hi>
+            </p>
+            <p>
+               <label>Anſw.</label> Now the rottenneſs of thy Heart within, and painted Sepulcher of deceiving Words without is manifeſt; for thou doſt not only diſown the good Order of Truth, which is according to Scripture, but alſo the Language of Truth, according to Scripture, and owneſt the World's Manners, Geſtures and Language; Art not thou a <hi>Ranter,</hi> who ſayſt in thy Title-page, <hi>You Quakers?</hi> (giving ſome cauſe thereby to judge that thou art none.)</p>
+            <p>5thly, <hi>Have not ſome of your ſide ſaid, That God will teach his People himſelf? yet now you limit them by your Orders and Directions.</hi>
+            </p>
+            <p>
+               <label>Anſ.</label> God teacheth his People himſelf, ſome<g ref="char:EOLhyphen"/>times <hi>inwardly</hi> &amp; <hi>immediately</hi> by his <hi>ſpirit</hi> it ſelf, ſometimes <hi>outwardly</hi> by the ſame ſpirit in his inſtruments; ſo he taught by his Apoſtles and Miniſters in the primitive Churches, ſo he doth now in our Churches. Much more might be ſaid to <hi>Thomas Criſp</hi>'s <hi>Epiſtle to the Reader,</hi> and his own piece of ſtoln words, but I am weary of raking in ſuch dirty Puddles.</p>
+            <p>
+               <pb n="10" facs="tcp:37453:6"/>
+               <!-- PDF PAGE 83 -->
+               <hi>Fifthly,</hi> Thou quoteſt <hi>Iſaac Pennington</hi> firſt in thy ſecond Edition; now I may try how thou dealeſt with <hi>Iſaac Pennington</hi>'s ſecond Teſtimony; note two things; firſt, he owns outward Orders and Uniformity in the Church of Chriſt, and ſaith:</p>
+            <p n="1">1. <hi>
+                  <g ref="char:V">Ʋ</g>niformity is good, and to be deſired; and the intent and work of the Miniſtry is to bring into <g ref="char:V">Ʋ</g>nity, which being kept in, will come into <g ref="char:V">Ʋ</g>niformity at length,</hi> pag. 7.</p>
+            <p n="2">2. Iſaac Pennington <hi>ſaith, The Church was clothed, appearing in the beautiful and glorious Dreſs; the Lord himſelf put upon her,</hi> pag. 17. of thy Book.</p>
+            <p>Now, if you ſeek to take away outward Order in the Church of Chriſt, is not this to take away from her Glory?</p>
+            <p n="3">3. <hi>The Inviſible ſtate of the Church hath a Viſible way of appearing to the World, by the Garments that ſhe wears openly, which the Life chuſeth to appear in,</hi> pag. 18. Then they that are againſt outward Order, are againſt the Lifes appearing in what it chuſeth.</p>
+            <p n="4">4. <hi>The Form was once true, until the Dragon entred,</hi> pag. 19. This is <hi>Iſaac Pennington</hi>'s Teſtimony for outward Government and Order in the Church, quoted by <hi>Thomas Criſp</hi> againſt himſelf, that ſaith, <hi>There is no need of any outward Government,</hi> endeavouring to de<g ref="char:EOLhyphen"/>ſtory the glory and beauty of the Church.</p>
+            <p>
+               <pb n="11" facs="tcp:37453:6"/>
+               <!-- PDF PAGE 83 -->
+               <hi>Sixth</hi> Author is <hi>Edward Burroughs,</hi> which is anſwered already.</p>
+            <p>
+               <hi>Seventh</hi> is a further Teſtimony of a name<g ref="char:EOLhyphen"/>leſs Author, that makes ſeveral Queries, not to force People into outward Orders; which is but a needleſs repitition of what your ſide of erronious Schiſmaticks propounded before.</p>
+            <p>
+               <hi>Eighth</hi> is R. R<hi>'s</hi> Teſtimony: <hi>Thomas Criſp,</hi> why doſt thou not name <hi>Robert Rich?</hi> this Te<g ref="char:EOLhyphen"/>ſtimony it is like him; but it may be thou art aſhamed, and well thou mayſt, for he was an Enemy to Truth, and to Friends in Truth; and for thee to have named him, would not have been for the credit of thy Cauſe. But your Teſtimonies are both alike, and ſo are your falſe Schiſmatical Doctrines alſo.</p>
+            <p>
+               <hi>Ninth</hi> is <hi>B. F.</hi> in a Letter to <hi>G. W. Thomas Criſp,</hi> if thou doſt think that <hi>G. W.</hi> is guilty of a ſeparating lording Spirit, thou mightſt, nay, thou oughtſt to have told him firſt, be<g ref="char:EOLhyphen"/>fore thou hadſt publiſhed him in thy <hi>Book,</hi> that he might have ſatisfied thee of his clear<g ref="char:EOLhyphen"/>neſs in this Matter, &amp;c. And as for <hi>B. F.</hi> I do not think he is of that <hi>treacherous dividing ſpirit</hi> as <hi>Robert Rich</hi> and thou art art of. What <hi>Iſaac
+<pb n="12" facs="tcp:37453:7"/>
+                  <!-- PDF PAGE 84 -->Pennington, Edward Burroughs</hi> &amp; <hi>William Penn</hi> writ zealouſly againſt outward Orders, ſet up by falſe Churches out of Truth, thou and thy ſide of unlearned and unſtable men, falſly apply againſt faithful Friends in Truth.</p>
+            <p>
+               <hi>Tenth</hi> is a few words of <hi>James Naylors;</hi> but he confutes thee, and all thy ſide: Why doſt thou bring him? firſt he ſaith, <hi>They that are in the ſpiritual Worſhip of God, cannot ſtay in any form any longer than God ſtayes therein.</hi>
+            </p>
+            <p>
+               <label>Anſw.</label> Then there are outward Forms that God owns, and ſtays in them. The Apoſtle ſpake againſt ſuch <hi>who had the form of godlineſs, but denyed the power thereof;</hi> he ſaid, <hi>from ſuch turn away;</hi> but we do own the Power of God, and the form which he hath led us into, and juſtifies us in. And what <hi>James Naylor</hi> ſaid concerning Form, to the Profeſſors, I under<g ref="char:EOLhyphen"/>ſtand to be concerning outward Shadows and Figures, which are to paſs away, ſome of which was uſed by ſome in the infancy of the primitive Church.</p>
+            <p>
+               <hi>Eleaventh</hi> is <hi>William Penn</hi>'s <hi>Addreſs to Pro<g ref="char:EOLhyphen"/>teſtants,</hi> that are as yet carnal, and not con<g ref="char:EOLhyphen"/>vinced of Truth; and what <hi>Iſaac Pennington, Edward Burroughs</hi> and <hi>William Penn</hi> applyeth to the falſe Churches concerning outward Orders, you apply to <hi>George Fox,</hi> and Friends in Truth.</p>
+            <p>
+               <pb n="13" facs="tcp:37453:7"/>
+               <!-- PDF PAGE 84 -->
+               <hi>Twelfth</hi> is a <hi>Manuſcript of</hi> James Naylors, <hi>added by deſire of a Friend. Thomas Criſp,</hi> thy Friend and thou have added nothing to your work, but a needleſs repitition of words, which I have ſpoken to, and anſwered fully already.</p>
+            <p>
+               <hi>Thirteenth</hi> is <hi>John Wilkinſon</hi> and <hi>John Story</hi>'s ſence concerning Womens Meetings, where<g ref="char:EOLhyphen"/>in we may take notice, that <hi>John Wilkinſon</hi> and <hi>John Story</hi> are unconſtant changeable men, as appears by their ſuttle reſerves, as what their words will bear, &amp;c.</p>
+            <p>1ſt, They ſay, <hi>We do approve of Monethly and Quarterly Meetings; and that it will be our Duty to be at unity with our Brethren in the ſervice thereof.</hi> But in the firſt of the forty four Charges <hi>John Wilkinſon</hi> declared publick<g ref="char:EOLhyphen"/>ly againſt appointing ſet dayes aforehand to meet; and <hi>John Wilkinſon</hi> was the Header of that ſeparate Meeting in <hi>Wiltſhire,</hi> which they continue ſeparate from our Quarter<g ref="char:EOLhyphen"/>ly and Monethly Meetings ſet up by the Power of God in his inſtruments (they ſaid, <hi>They will not ſay they were not.</hi>)</p>
+            <p>2dly, John Wilkinſon <hi>ſubſcribed a Paper for erecting of Womens Meetings in the Country, in ſingleneſs of Heart, and for unities ſake; but now we</hi> [Why we?] <hi>judge there is no neceſſity to continue them in the Country.</hi> It ſeems <hi>John
+<pb n="14" facs="tcp:37453:8"/>
+                  <!-- PDF PAGE 85 -->Wilkinſon</hi> had changed his Mind from ſingle<g ref="char:EOLhyphen"/>neſs of Heart and Unity, into Separation.</p>
+            <p>3dly, <hi>Though we conſcientiouſly forbear to aſſent or encourage to lay intentions of Marriage before the Womens Meetings, yet our inward Sence is, that it is not agreeable to the Life of Truth, to oppoſe others in the Practice thereof.</hi>
+            </p>
+            <p>4thly, <hi>When it pleaſeth the Lord to manifeſt to us a ſence of its Service in the Country, as in the City, we ſhall joyn hand and heart with our Brethren and Siſters in the Practice of it.</hi> Oh, unſtable changeable men! who can truſt them in any thing. What! not ſettled in their Judgment yet?</p>
+            <p>
+               <hi>Fourteenth</hi> is <hi>an Abridgment of a Judgment againſt</hi> John Wilkinſon <hi>and</hi> John Story. <hi>Thomas Criſp,</hi> thy Copy is not the ſame, but falſly tranſcribed, the chief words left out, as <hi>[to be reconciled to your Brethren, and united to the Church]</hi> is not in; and other words put in diſhoneſtly, to ſerve thy own turn, as the uſual manner hath been through thy Book.</p>
+            <p>
+               <hi>Fifteenth, Another eminent Oppoſer of</hi> J. W. <hi>and</hi> J. S. <hi>ſaith,</hi> [Let not that ſpirit be rea<g ref="char:EOLhyphen"/>ſoned with, enter not into Articles with it, but feed it with Judgment, this is <hi>Gods decree</hi>]</p>
+            <p>
+               <hi>Anſw. T. C.</hi> is it not God's Decree to paſs Judgment upon all wicked ſpirits? He doth not ſay, article not with the perſon; that were
+<pb n="15" facs="tcp:37453:8"/>
+               <!-- PDF PAGE 85 -->uncharitable; but <hi>uſe means to pull him as <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Fire-brand out of the Fire, by telling him, if he will not hear thee, tell one or two; if he will not hear them, tell the Church; if he will not hear the Church, let him be unto thee as an</hi> Heathen man. <hi>Thomas Criſp,</hi> our acquaintance and unity in the Truth, twenty years ſince, was joyful, but now to ſee thee joyned to a ſpirit Error, grieves my heart. If thou ſhouldſt diſlike my plainneſs of ſpeech, and account it hard Words, or ill Will, thou art miſtaken; I wiſh thee all happineſs, as to my own Soul, and in true Love counſel thee, reſt not in Self-confidence, but ſearch thy heart deeply, whether thou mayſt not be miſtaken. I ſay unto thee, as in my Anſwer to <hi>William Rogers,</hi> if thou canſt prove all thy Writings true, and mine falſe, I will ſubmit to the Truth in thee; but if thou canſt not prove thine true, nor mine falſe, then thou art to ſubmit to the Truth in me; ſo all Controverſie betwixt us in theſe matters, will be ended.</p>
+            <closer>
+               <dateline>
+                  <date>The 6th Moneth, 1681.</date>
+               </dateline>
+               <signed>Thomas Laurence.</signed>
+            </closer>
+            <trailer>THE END.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
